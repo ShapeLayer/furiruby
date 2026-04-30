@@ -51,5 +51,5 @@ FuriRuby allows to insert rubies into text. The rubies can be displayed simultan
   inline-mode: "expand" | "float",
 ))[Expand is a default value]
 
-#show raw.ruby: it => it.with(layout: (inline-mode: "float"))
+#let ruby = ruby.with(layout: (inline-mode: "float",))
 ```
