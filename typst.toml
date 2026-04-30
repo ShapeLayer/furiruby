@@ -1,0 +1,7 @@
+[package]
+name = "furiruby"
+version = "0.1.0"
+entrypoint = "furiruby.typ"
+authors = ["Park, Jonghyeon <github.com/shapelayer>"]
+license = "MIT"
+description = "Ruby implementation for furigana annotation in Typst."
