@@ -5,6 +5,12 @@ _Using FuriRuby, a figure showing the legacy Furigana (top) and modern pronuncia
 
 FuriRuby allows to insert rubies into text. The rubies can be displayed simultaneously at the top and bottom of the body to correspond to the furigana display of classical Japanese text.
 
+<br />
+
+**Why was this made?**
+
+In languages like Japanese that use both logograms and phonograms, a single logogram (Kanji) can often have multiple readings. Furthermore, in historical texts of these languages, the orthography (spelling) used to represent the same pronunciation may differ between the archaic and modern systems. In cases where it is necessary to represent both the archaic and modern readings simultaneously, this can be achieved by applying ruby characters both above and below the base text.
+
 ## Usage
 
 ```typ
